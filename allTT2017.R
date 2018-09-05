@@ -1,5 +1,3 @@
-# Fit different distributions on the operational data
-
 .libPaths(c("/home/bill/R/x86_64-pc-linux-gnu-library/3.3", .libPaths())) #Show where the included libraries are located
 
 library(RMySQL) #Include library for connecting to MySQL Database
